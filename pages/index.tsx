@@ -148,7 +148,7 @@ const WeddingPage: React.FC = () => {
               {
                 name: "Pallav",
                 description:
-                  "Pallav, son of Mr. Mahesh Kumar Gupta and Mrs. Lalita Gupta, is a talented software engineer. With a heart full of dreams and a mind full of aspirations, he embarks on a new journey of love and happiness",
+                  "Pallav, beloved son of Mr. Mahesh Kumar Gupta and Mrs. Lalita Gupta, is an ambitious and kind-hearted individual. With dreams in his eyes and hope in his heart, he embarks on a beautiful new journey filled with love, joy, and togetherness.",
                 image: "https://example.com/groom.jpg",
                 className: "groom-card",
               },
